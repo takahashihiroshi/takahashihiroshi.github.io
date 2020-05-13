@@ -1,10 +1,14 @@
 # Publications  
 ## International Conference  
-1. Hiroshi Takahashi, Iwata Tomoharu, Yamanaka Yuki, Yamada Masanori, Yagi Satoshi,  
+1.Yuki Yamanaka, Tomoharu Iwata, **Hiroshi Takahashi**, Masanori Yamada, Sekitoshi Kanai,  
+  **Autoencoding Binary Classifiers for Supervised Anomaly Detection**,  
+  PRICAI, 2019.  
+  [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-29911-8_50) [[arXiv]](https://arxiv.org/abs/1903.10709)
+1. **Hiroshi Takahashi**, Iwata Tomoharu, Yamanaka Yuki, Yamada Masanori, Yagi Satoshi,  
   **Variational Autoencoder with Implicit Optimal Priors**,  
   AAAI, 2019.  
-  [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4439) [[code]](https://github.com/takahashihiroshi/vae_iop)  
-1. Hiroshi Takahashi, Iwata Tomoharu, Yamanaka Yuki, Yamada Masanori, Yagi Satoshi,  
+  [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4439) [[arXiv]](https://arxiv.org/abs/1809.05284) [[code]](https://github.com/takahashihiroshi/vae_iop)  
+1. **Hiroshi Takahashi**, Iwata Tomoharu, Yamanaka Yuki, Yamada Masanori, Yagi Satoshi,  
   **Student-t Variational Autoencoder for Robust Density Estimation**,  
   IJCAI, 2018.  
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae)  
