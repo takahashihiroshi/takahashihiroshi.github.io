@@ -12,3 +12,9 @@
   **Student-t Variational Autoencoder for Robust Density Estimation**,  
   IJCAI, 2018.  
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae)  
+
+## Preprints  
+1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
+  **Constraining Logits by Bounded Function for Adversarial Robustness**,  
+  arXiv:2010.02558, 2020.  
+  [[arXiv]](https://arxiv.org/abs/2010.02558v1)  
