@@ -14,11 +14,15 @@
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae)  
 
 ## Preprints  
+1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
+  **Smoothness Analysis of Loss Functions of Adversarial Training**,  
+  arXiv:2103.01400v1, 2021.  
+  [[arXiv]](https://arxiv.org/abs/2103.01400v1)  
+1. Masanori Yamada, Sekitoshi Kanai, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, **Hiroshi Takahashi**, Atsutoshi Kumagai,  
+  **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
+  arXiv:2102.02950, 2021.  
+  [[arXiv]](https://arxiv.org/abs/2102.02950v1)  
 1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**,  
   arXiv:2010.02558, 2020.  
   [[arXiv]](https://arxiv.org/abs/2010.02558v1)  
- 1. Masanori Yamada, Sekitoshi Kanai, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, **Hiroshi Takahashi**, Atsutoshi Kumagai,  
-  **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
-  arXiv:2102.02950, 2021.  
-  [[arXiv]](https://arxiv.org/abs/2102.02950v1)  
