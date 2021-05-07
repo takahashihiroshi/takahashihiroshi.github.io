@@ -27,5 +27,5 @@
   arXiv:2010.02558, 2020.  
   [[arXiv]](https://arxiv.org/abs/2010.02558v1)
 
-## Contents
-- [機械学習の研究者になるために (Japanese only)](contents/for_ml_beginners.md)
+## Contents (Written in Japanese)
+- [機械学習の研究者を目指す人へ](contents/for_ml_beginners.md)
