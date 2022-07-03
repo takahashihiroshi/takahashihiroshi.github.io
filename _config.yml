@@ -1,3 +1,4 @@
+markdown: kramdown
 theme: jekyll-theme-cayman
 title: Hiroshi Takahashi
-description: Hiroshi Takahashi (NTT docomo)
+description: Researcher at NTT docomo
