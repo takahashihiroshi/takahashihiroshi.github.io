@@ -3,6 +3,9 @@
 ## Publications
 
 ### International Conference
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Yuuki Yamanaka, Hisashi Kashima,
+  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**
+  KDD, 2022.
 1. Yuki Yamanaka, Tomoharu Iwata, **Hiroshi Takahashi**, Masanori Yamada, Sekitoshi Kanai,  
   **Autoencoding Binary Classifiers for Supervised Anomaly Detection**,  
   PRICAI, 2019.  
