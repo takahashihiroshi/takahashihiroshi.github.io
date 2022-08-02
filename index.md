@@ -20,6 +20,10 @@
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae)
 
 ### Preprints
+1. Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, **Hiroshi Takahashi**, Yasutoshi Ida,  
+  **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
+  arXiv:2207.10283, 2022.  
+  [[arXiv]](https://arxiv.org/abs/2207.10283)
 1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400v1, 2021.  
