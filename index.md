@@ -12,6 +12,10 @@ description: Researcher at NTT docomo
   **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**  
   KDD, 2022.  
   [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide]](./slides/KDD2022/slide.pdf) [[poster]](./slides/KDD2022/poster.pdf)
+1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
+  **Constraining Logits by Bounded Function for Adversarial Robustness**,  
+  IJCNN, 2021.  
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/9533777) [[arXiv]](https://arxiv.org/abs/2010.02558v1)
 1. Yuki Yamanaka, Tomoharu Iwata, **Hiroshi Takahashi**, Masanori Yamada, Sekitoshi Kanai,  
   **Autoencoding Binary Classifiers for Supervised Anomaly Detection**,  
   PRICAI, 2019.  
@@ -38,10 +42,6 @@ description: Researcher at NTT docomo
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
-1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
-  **Constraining Logits by Bounded Function for Adversarial Robustness**,  
-  arXiv:2010.02558, 2020.  
-  [[arXiv]](https://arxiv.org/abs/2010.02558v1)
 
 ## Journal (Written in Japanese)
 1. **高橋大志**, 岩田具治, 山中友貴, 山田真徳, 八木哲志, 鹿島久嗣,  
