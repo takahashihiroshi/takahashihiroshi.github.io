@@ -1,3 +1,10 @@
+---
+markdown: kramdown
+theme: jekyll-theme-cayman
+title: Hiroshi Takahashi
+description: Researcher at NTT docomo
+---
+
 # 機械学習の研究者を目指す人へ
 
 機械学習の研究を行うためには、プログラミングや数学などの前提知識から、サーベイの方法や資料・論文の作成方法まで、幅広い知識が必要になります。本レポジトリは、学生や新社会人を対象に、機械学習の研究を行うにあたって必要になる知識や、それらを学ぶための書籍やWebサイトをまとめたものです。

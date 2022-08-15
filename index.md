@@ -1,8 +1,13 @@
-# Hiroshi Takahashi
+---
+markdown: kramdown
+theme: jekyll-theme-cayman
+title: Hiroshi Takahashi
+description: Researcher at NTT docomo
+---
 
-## Publications
+# Publications
 
-### International Conference
+## International Conference
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Yuuki Yamanaka, Hisashi Kashima,  
   **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**  
   KDD, 2022.  
@@ -20,7 +25,7 @@
   IJCAI, 2018.  
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae)
 
-### Preprints
+## Preprints
 1. Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, **Hiroshi Takahashi**, Yasutoshi Ida,  
   **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
   arXiv:2207.10283, 2022.  
@@ -38,11 +43,11 @@
   arXiv:2010.02558, 2020.  
   [[arXiv]](https://arxiv.org/abs/2010.02558v1)
 
-### Journal (Written in Japanese)
+## Journal (Written in Japanese)
 1. **高橋大志**, 岩田具治, 山中友貴, 山田真徳, 八木哲志, 鹿島久嗣,  
   **Student-t VAEによるロバスト確率密度推定**,  
   人工知能学会論文誌, 2021, 36 巻, 3 号, p. A-KA4_1-9.  
   [[paper]](https://www.jstage.jst.go.jp/article/tjsai/36/3/36_36-3_A-KA4/_article/-char/ja/)
 
-### Contents (Written in Japanese)
+## Contents (Written in Japanese)
 - [機械学習の研究者を目指す人へ](contents/for_ml_beginners.md)
