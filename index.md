@@ -11,7 +11,7 @@ description: Researcher at NTT docomo
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Yuuki Yamanaka, Hisashi Kashima,  
   **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**  
   KDD, 2022.  
-  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide]](./slides/KDD2022/slide.pdf) [[poster]](./slides/KDD2022/poster.pdf)
+  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide]](./slides/KDD2022.pdf) [[poster]](./posters/KDD2022.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**,  
   IJCNN, 2021.  
@@ -23,11 +23,11 @@ description: Researcher at NTT docomo
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi,  
   **Variational Autoencoder with Implicit Optimal Priors**,  
   AAAI, 2019.  
-  [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4439) [[arXiv]](https://arxiv.org/abs/1809.05284) [[code]](https://github.com/takahashihiroshi/vae_iop)
+  [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4439) [[arXiv]](https://arxiv.org/abs/1809.05284) [[code]](https://github.com/takahashihiroshi/vae_iop) [[slide]](./slides/AAAI2019.pdf) [[poster]](./posters/AAAI2019.pdf)
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi,  
   **Student-t Variational Autoencoder for Robust Density Estimation**,  
   IJCAI, 2018.  
-  [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae)
+  [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae) [[slide]](./slides/IJCAI2018.pdf)
 
 ## Preprints
 1. Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, **Hiroshi Takahashi**, Yasutoshi Ida,  
