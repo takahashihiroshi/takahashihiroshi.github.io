@@ -51,3 +51,4 @@ description: Researcher at NTT docomo
 
 ## Contents (Written in Japanese)
 - [機械学習の研究者を目指す人へ](contents/for_ml_beginners.md)
+- [備忘録](https://taka8hiroshi.hatenablog.com/)
