@@ -11,7 +11,7 @@ description: Researcher at NTT docomo
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Yuuki Yamanaka, Hisashi Kashima,  
   **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**  
   KDD, 2022.  
-  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide(en)]](./slides/KDD2022.pdf) [[slide(ja)]](./slides/KDD2022_ja.pdf) [[poster]](./posters/KDD2022.pdf)
+  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide]](./slides/KDD2022.pdf) [[slide(ja)]](./slides/KDD2022_ja.pdf) [[poster]](./posters/KDD2022.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**,  
   IJCNN, 2021.  
