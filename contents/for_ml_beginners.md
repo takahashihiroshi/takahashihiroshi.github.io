@@ -179,3 +179,4 @@ arXivには毎日論文が投稿されており、論文はカテゴリごとに
 
 ## 7. 参考資料
 - [研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ](https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md)
+- [論文の書き方 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/2022/09/20/172453)
