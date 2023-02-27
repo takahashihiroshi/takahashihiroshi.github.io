@@ -43,6 +43,12 @@ description: Researcher at NTT docomo
   arXiv:2102.02950, 2021.  
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
 
+## Journal
+1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
+  **Relationship Between Nonsmoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
+  in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3244172.  
+  [[paper]](https://ieeexplore.ieee.org/document/10049380)
+
 ## Journal (Written in Japanese)
 1. **高橋大志**, 岩田具治, 山中友貴, 山田真徳, 八木哲志, 鹿島久嗣,  
   **Student-t VAEによるロバスト確率密度推定**,  
