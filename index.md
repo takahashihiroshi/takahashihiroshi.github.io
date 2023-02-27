@@ -23,7 +23,7 @@ description: Researcher at NTT docomo
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi,  
   **Variational Autoencoder with Implicit Optimal Priors**,  
   AAAI, 2019.  
-  [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4439) [[arXiv]](https://arxiv.org/abs/1809.05284) [[code]](https://github.com/takahashihiroshi/vae_iop) [[slide]](./slides/AAAI2019.pdf) [[poster]](./posters/AAAI2019.pdf)
+  [[paper]](https://doi.org/10.1609/aaai.v33i01.33015066) [[arXiv]](https://arxiv.org/abs/1809.05284) [[code]](https://github.com/takahashihiroshi/vae_iop) [[slide]](./slides/AAAI2019.pdf) [[poster]](./posters/AAAI2019.pdf)
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi,  
   **Student-t Variational Autoencoder for Robust Density Estimation**,  
   IJCAI, 2018.  
