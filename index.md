@@ -8,6 +8,11 @@ description: Researcher at NTT docomo
 # Publications
 
 ## International Conference
+
+1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Yasuhiro Fujiwara,  
+  **Meta-learning for Robust Anomaly Detection,**  
+  AISTATS, 2023.  
+  [[paper]](https://proceedings.mlr.press/v206/kumagai23a.html)
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Yuuki Yamanaka, Hisashi Kashima,  
   **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**  
   KDD, 2022.  
