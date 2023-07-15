@@ -57,6 +57,12 @@ description: Researcher at NTT
   人工知能学会論文誌, 2021, 36 巻, 3 号, p. A-KA4_1-9.  
   [[paper]](https://www.jstage.jst.go.jp/article/tjsai/36/3/36_36-3_A-KA4/_article/-char/ja/)
 
+## Thesis
+- **Hiroshi Takahashi**,  
+  **Improving Variational Autoencoders on Robustness, Regularization, and Task-Invariance,**  
+  Doctoral Thesis, Graduate School of Informatics, Kyoto University, 2023.  
+  [[paper]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283844)
+
 ## Contents (Written in Japanese)
 - [機械学習の研究者を目指す人へ](contents/for_ml_beginners.md)
 - [備忘録](https://taka8hiroshi.hatenablog.com/)
