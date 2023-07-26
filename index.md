@@ -9,7 +9,7 @@ description: Researcher at NTT
 
 ## International Conference
 1. Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, **Hiroshi Takahashi**, Yasutoshi Ida,  
-  **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
+  **One-vs-the-Rest Loss to Focus on Important Samples in Adversarial Training**,  
   ICML, 2023.  
   [[paper]](https://proceedings.mlr.press/v202/kanai23a.html) [[arXiv]](https://arxiv.org/abs/2207.10283)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Yasuhiro Fujiwara,  
