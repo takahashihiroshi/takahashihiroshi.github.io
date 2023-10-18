@@ -2,7 +2,7 @@
 markdown: kramdown
 theme: jekyll-theme-cayman
 title: Hiroshi Takahashi
-description: Researcher at NTT docomo
+description: Researcher at NTT
 ---
 
 # 機械学習の研究者を目指す人へ
