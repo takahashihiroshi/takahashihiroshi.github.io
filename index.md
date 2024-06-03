@@ -38,6 +38,10 @@ description: Researcher at NTT
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae) [[slide]](./slides/IJCAI2018.pdf)
 
 ## Preprints
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuki Yamanaka,  
+  **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
+  arXiv:2405.18929, 2024.  
+  [[arXiv]](https://arxiv.org/abs/2405.18929)
 1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400, 2021.  
