@@ -8,6 +8,10 @@ description: Researcher at NTT
 # Publications
 
 ## International Conference
+1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Yasuhiro Fujiwara,  
+  **AUC Maximization under Positive Distribution Shift**,  
+  NeurIPS, 2024.  
+  [[poster]](https://neurips.cc/virtual/2024/poster/93025)
 1. Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, **Hiroshi Takahashi**, Yasutoshi Ida,  
   **One-vs-the-Rest Loss to Focus on Important Samples in Adversarial Training**,  
   ICML, 2023.  
