@@ -23,7 +23,7 @@ description: Researcher at NTT
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Yuuki Yamanaka, Hisashi Kashima,  
   **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**  
   KDD, 2022.  
-  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide]](./slides/KDD2022.pdf) [[slide(ja)]](./slides/KDD2022_ja.pdf) [[poster]](./posters/KDD2022.pdf)
+  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide]](./slides/KDD2022.pdf) [[slide(ja)]](./slides/KDD2022_ja.pdf) [[poster]](./posters/KDD2022.pdf) [[poster(ja)]](./posters/IBIS2023.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**,  
   IJCNN, 2021.  
@@ -45,7 +45,7 @@ description: Researcher at NTT
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuki Yamanaka,  
   **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
   arXiv:2405.18929, 2024.  
-  [[arXiv]](https://arxiv.org/abs/2405.18929)
+  [[arXiv]](https://arxiv.org/abs/2405.18929) [[poster(ja)]](./posters/IBIS2024.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400, 2021.  
