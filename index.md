@@ -8,6 +8,13 @@ description: Researcher at NTT
 # Publications
 
 ## International Conference
+1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita,  
+  **Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation**,  
+  ICLR, 2025.  
+  [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5)
+1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Yasuhiro Fujiwara,  
+  **Importance-weighted Positive-unlabeled Learning for Distribution Shift Adaptation**,  
+  AISTATS, 2025.  
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Yasuhiro Fujiwara,  
   **AUC Maximization under Positive Distribution Shift**,  
   NeurIPS, 2024.  
