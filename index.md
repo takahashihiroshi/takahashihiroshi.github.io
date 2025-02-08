@@ -8,7 +8,7 @@ description: Researcher at NTT
 # Publications
 
 ## International Conference
-1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita,  
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita,  
   **Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation**,  
   ICLR, 2025.  
   [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5)
