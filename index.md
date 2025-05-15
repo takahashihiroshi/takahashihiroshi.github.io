@@ -8,6 +8,10 @@ description: Researcher at NTT
 # Publications
 
 ## International Conference
+
+1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Kazuki Adachi, Yasuhiro Fujiwara,  
+  **Positive-unlabeled AUC Maximization under Covariate Shift**,  
+  ICML, 2025.  
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita,  
   **Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation**,  
   ICLR, 2025.  
