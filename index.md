@@ -8,7 +8,7 @@ description: Researcher at NTT
 # Publications
 
 ## International Conference
-1. Yuuki Yamanaka, **Hiroshi Takahashi**, Tomoya Yamashita,
+1. Yuuki Yamanaka, **Hiroshi Takahashi**, Tomoya Yamashita,  
    **Flowchart-Based Decision Making with Large Language Models**,  
    Findings of ACL, 2025.  
   [[paper]](https://aclanthology.org/2025.findings-acl.766/)
