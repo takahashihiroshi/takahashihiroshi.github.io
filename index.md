@@ -8,17 +8,22 @@ description: Researcher at NTT
 # Publications
 
 ## International Conference
-
+1. Yuuki Yamanaka, **Hiroshi Takahashi**, Tomoya Yamashita,
+   **Flowchart-Based Decision Making with Large Language Models**,  
+   Findings of ACL, 2025.  
+  [[paper]](https://aclanthology.org/2025.findings-acl.766/)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Kazuki Adachi, Yasuhiro Fujiwara,  
   **Positive-unlabeled AUC Maximization under Covariate Shift**,  
   ICML, 2025.  
+  [[paper]](https://proceedings.mlr.press/v267/kumagai25a.html)
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita,  
   **Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation**,  
   ICLR, 2025.  
-  [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5)
+  [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5) [[arXiv]](https://arxiv.org/abs/2503.03789)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Yasuhiro Fujiwara,  
   **Importance-weighted Positive-unlabeled Learning for Distribution Shift Adaptation**,  
   AISTATS, 2025.  
+  [[paper]](https://proceedings.mlr.press/v258/kumagai25a.html)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Yasuhiro Fujiwara,  
   **AUC Maximization under Positive Distribution Shift**,  
   NeurIPS, 2024.  
@@ -53,6 +58,10 @@ description: Researcher at NTT
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae) [[slide]](./slides/IJCAI2018.pdf)
 
 ## Preprints
+1. Sekitoshi Kanai, Tsukasa Yoshida, **Hiroshi Takahashi**, Haru Kuroki, Kazumune Hashimoto,  
+  **Test-Time Alignment of LLMs via Sampling-Based Optimal Control in pre-logit space**,  
+  arXiv:2510.26219, 2025.  
+  [[arXiv]](https://arxiv.org/abs/2510.26219)
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuki Yamanaka,  
   **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
   arXiv:2405.18929, 2024.  
