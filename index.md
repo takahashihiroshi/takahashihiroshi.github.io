@@ -90,7 +90,3 @@ description: Researcher at NTT
   **Improving Variational Autoencoders on Robustness, Regularization, and Task-Invariance,**  
   Doctoral Thesis, Graduate School of Informatics, Kyoto University, 2023.  
   [[paper]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283844)
-
-## Contents (Written in Japanese)
-- [機械学習の研究者を目指す人へ](contents/for_ml_beginners.md)
-- [備忘録](https://taka8hiroshi.hatenablog.com/)
