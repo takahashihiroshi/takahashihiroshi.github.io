@@ -58,6 +58,10 @@ description: Researcher at NTT
   [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae) [[slide]](./slides/IJCAI2018.pdf)
 
 ## Preprints
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Kosuke Nishida, Kazutoshi Shinoda,  
+  **Relative Density Ratio Optimization for Stable and Statistically Consistent Model Alignment**,  
+  arXiv:2604.04410, 2026.  
+  [[arXiv]](https://arxiv.org/abs/2604.04410)
 1. Sekitoshi Kanai, Tsukasa Yoshida, **Hiroshi Takahashi**, Haru Kuroki, Kazumune Hashimoto,  
   **Test-Time Alignment of LLMs via Sampling-Based Optimal Control in pre-logit space**,  
   arXiv:2510.26219, 2025.  
