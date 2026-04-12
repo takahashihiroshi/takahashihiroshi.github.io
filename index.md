@@ -1,5 +1,8 @@
 ---
-layout: default
+markdown: kramdown
+theme: jekyll-theme-cayman
+title: Hiroshi Takahashi
+description: Researcher at NTT
 ---
 
 # Publications
