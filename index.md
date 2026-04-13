@@ -1,6 +1,6 @@
 ---
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Hiroshi Takahashi
 description: Researcher at NTT
 ---
