@@ -7,10 +7,11 @@ description: Researcher at NTT
 
 # Publications
 
-## International Conference
+## International Conferences
+
 1. Yuuki Yamanaka, **Hiroshi Takahashi**, Tomoya Yamashita,  
-   **Flowchart-Based Decision Making with Large Language Models**,  
-   Findings of ACL, 2025.  
+  **Flowchart-Based Decision Making with Large Language Models**,  
+  Findings of ACL, 2025.  
   [[paper]](https://aclanthology.org/2025.findings-acl.766/)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Kazuki Adachi, Yasuhiro Fujiwara,  
   **Positive-unlabeled AUC Maximization under Covariate Shift**,  
@@ -33,13 +34,13 @@ description: Researcher at NTT
   ICML, 2023.  
   [[paper]](https://proceedings.mlr.press/v202/kanai23a.html) [[arXiv]](https://arxiv.org/abs/2207.10283)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Yasuhiro Fujiwara,  
-  **Meta-learning for Robust Anomaly Detection,**  
+  **Meta-learning for Robust Anomaly Detection**,  
   AISTATS, 2023.  
   [[paper]](https://proceedings.mlr.press/v206/kumagai23a.html)
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Yuuki Yamanaka, Hisashi Kashima,  
-  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders,**  
+  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**,  
   KDD, 2022.  
-  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slide]](./slides/KDD2022.pdf) [[slide(ja)]](./slides/KDD2022_ja.pdf) [[poster]](./posters/KDD2022.pdf) [[poster(ja)]](./posters/IBIS2023.pdf)
+  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) [[slides]](./slides/KDD2022.pdf) [[slides (Japanese)]](./slides/KDD2022_ja.pdf) [[poster]](./posters/KDD2022.pdf) [[poster (Japanese)]](./posters/IBIS2023.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, Shin'ya Yamaguchi, **Hiroshi Takahashi**, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**,  
   IJCNN, 2021.  
@@ -51,13 +52,29 @@ description: Researcher at NTT
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi,  
   **Variational Autoencoder with Implicit Optimal Priors**,  
   AAAI, 2019.  
-  [[paper]](https://doi.org/10.1609/aaai.v33i01.33015066) [[arXiv]](https://arxiv.org/abs/1809.05284) [[code]](https://github.com/takahashihiroshi/vae_iop) [[slide]](./slides/AAAI2019.pdf) [[poster]](./posters/AAAI2019.pdf)
+  [[paper]](https://doi.org/10.1609/aaai.v33i01.33015066) [[arXiv]](https://arxiv.org/abs/1809.05284) [[code]](https://github.com/takahashihiroshi/vae_iop) [[slides]](./slides/AAAI2019.pdf) [[poster]](./posters/AAAI2019.pdf)
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi,  
   **Student-t Variational Autoencoder for Robust Density Estimation**,  
   IJCAI, 2018.  
-  [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae) [[slide]](./slides/IJCAI2018.pdf)
+  [[paper]](https://www.ijcai.org/Proceedings/2018/374) [[code]](https://github.com/takahashihiroshi/t_vae) [[slides]](./slides/IJCAI2018.pdf)
+
+## Journal Articles
+
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka,  
+  **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
+  Neurocomputing, 2026, 135134.  
+  [[paper]](https://doi.org/10.1016/j.neucom.2026.135134) [[arXiv]](https://arxiv.org/abs/2405.18929) [[poster (Japanese)]](./posters/IBIS2024.pdf)
+1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
+  **Relationship Between Nonsmoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
+  IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(8), 10817–10831.  
+  [[paper]](https://doi.org/10.1109/TNNLS.2023.3244172)
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi, Hisashi Kashima,  
+  **Student-t Variational Autoencoder for Robust Multivariate Density Estimation**,  
+  Transactions of the Japanese Society for Artificial Intelligence, 2021, 36(3), A-KA4_1–9. (in Japanese)  
+  [[paper]](https://www.jstage.jst.go.jp/article/tjsai/36/3/36_36-3_A-KA4/_article/-char/en)
 
 ## Preprints
+
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Kosuke Nishida, Kazutoshi Shinoda,  
   **Relative Density Ratio Optimization for Stable and Statistically Consistent Model Alignment**,  
   arXiv:2604.04410, 2026.  
@@ -75,22 +92,9 @@ description: Researcher at NTT
   arXiv:2102.02950, 2021.  
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
 
-## Journal
-1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka,  
-  **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
-  Neurocomputing, 2026, 135134, doi: 10.1016/j.neucom.2026.135134.  
-  [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231226025324) [[arXiv]](https://arxiv.org/abs/2405.18929) [[poster(ja)]](./posters/IBIS2024.pdf)
-1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
-  **Relationship Between Nonsmoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
-  IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3244172.  
-  [[paper]](https://ieeexplore.ieee.org/document/10049380)
-1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi, Hisashi Kashima,  
-  **Student-t Variational Autoencoder for Robust Multivariate Density Estimation**,  
-  Transactions of the Japanese Society for Artificial Intelligence, 2021, 36(3), A-KA4_1–9. (in Japanese)  
-  [[paper]](https://www.jstage.jst.go.jp/article/tjsai/36/3/36_36-3_A-KA4/_article/-char/en)
-
 ## Thesis
+
 - **Hiroshi Takahashi**,  
-  **Improving Variational Autoencoders on Robustness, Regularization, and Task-Invariance,**  
+  **Improving Variational Autoencoders on Robustness, Regularization, and Task-Invariance**,  
   Doctoral Thesis, Graduate School of Informatics, Kyoto University, 2023.  
   [[paper]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283844)
