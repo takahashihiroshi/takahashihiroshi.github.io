@@ -66,10 +66,6 @@ description: Researcher at NTT
   **Test-Time Alignment of LLMs via Sampling-Based Optimal Control in pre-logit space**,  
   arXiv:2510.26219, 2025.  
   [[arXiv]](https://arxiv.org/abs/2510.26219)
-1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuki Yamanaka,  
-  **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
-  arXiv:2405.18929, 2024.  
-  [[arXiv]](https://arxiv.org/abs/2405.18929) [[poster(ja)]](./posters/IBIS2024.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400, 2021.  
@@ -80,6 +76,10 @@ description: Researcher at NTT
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
 
 ## Journal
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka,  
+  **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
+  Neurocomputing, 2026, 135134, doi: 10.1016/j.neucom.2026.135134.  
+  [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231226025324) [[arXiv]](https://arxiv.org/abs/2405.18929) [[poster(ja)]](./posters/IBIS2024.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
   **Relationship Between Nonsmoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
   IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3244172.  
