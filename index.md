@@ -20,7 +20,7 @@ description: Researcher at NTT
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita,  
   **Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation**,  
   ICLR, 2025.  
-  [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5) [[arXiv]](https://arxiv.org/abs/2503.03789)
+  [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5) [[arXiv]](https://arxiv.org/abs/2503.03789) [[slides]](./slides/ICLR2025.pdf) [[poster]](./posters/ICLR2025.pdf)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Yasuhiro Fujiwara,  
   **Importance-weighted Positive-unlabeled Learning for Distribution Shift Adaptation**,  
   AISTATS, 2025.  
@@ -98,3 +98,12 @@ description: Researcher at NTT
   **Improving Variational Autoencoders on Robustness, Regularization, and Task-Invariance**,  
   Doctoral Thesis, Graduate School of Informatics, Kyoto University, 2023.  
   [[paper]](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283844)
+
+# Lectures
+
+1. **Generative Models: Foundations and Applications (2025)**  
+  Graduate School of Information Science and Technology, Osaka University, June 5, 2025.  
+  [[slides (Japanese)]](./slides/osaka-u-2025.pdf)
+1. **Generative Models: Foundations and Applications (2024)**  
+  Graduate School of Information Science and Technology, Osaka University, June 13, 2024.  
+  [[slides (Japanese)]](./slides/osaka-u-2024.pdf)
