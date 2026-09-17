@@ -20,7 +20,7 @@ description: Researcher at NTT
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita,  
   **Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation**,  
   ICLR, 2025.  
-  [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5) [[arXiv]](https://arxiv.org/abs/2503.03789) [[slides]](./slides/ICLR2025.pdf) [[poster]](./posters/ICLR2025.pdf)
+  [[paper]](https://openreview.net/forum?id=jKcZ4hF4s5) [[arXiv]](https://arxiv.org/abs/2503.03789) [[code]](https://github.com/takahashihiroshi/pudm) [[slides]](./slides/ICLR2025.pdf) [[poster]](./posters/ICLR2025.pdf)
 1. Atsutoshi Kumagai, Tomoharu Iwata, **Hiroshi Takahashi**, Taishi Nishiyama, Yasuhiro Fujiwara,  
   **Importance-weighted Positive-unlabeled Learning for Distribution Shift Adaptation**,  
   AISTATS, 2025.  
@@ -63,7 +63,7 @@ description: Researcher at NTT
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka,  
   **Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**,  
   Neurocomputing, 2026, 135134.  
-  [[paper]](https://doi.org/10.1016/j.neucom.2026.135134) [[arXiv]](https://arxiv.org/abs/2405.18929) [[poster (Japanese)]](./posters/IBIS2024.pdf)
+  [[paper]](https://doi.org/10.1016/j.neucom.2026.135134) [[arXiv]](https://arxiv.org/abs/2405.18929) [[code]](https://github.com/takahashihiroshi/pusvdd) [[poster (Japanese)]](./posters/IBIS2024.pdf)
 1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
   **Relationship Between Nonsmoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
   IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(8), 10817–10831.  
@@ -78,7 +78,7 @@ description: Researcher at NTT
 1. **Hiroshi Takahashi**, Tomoharu Iwata, Atsutoshi Kumagai, Sekitoshi Kanai, Masanori Yamada, Kosuke Nishida, Kazutoshi Shinoda,  
   **Relative Density Ratio Optimization for Stable and Statistically Consistent Model Alignment**,  
   arXiv:2604.04410, 2026.  
-  [[arXiv]](https://arxiv.org/abs/2604.04410)
+  [[arXiv]](https://arxiv.org/abs/2604.04410) [[code]](https://github.com/takahashihiroshi/rdro)
 1. Sekitoshi Kanai, Tsukasa Yoshida, **Hiroshi Takahashi**, Haru Kuroki, Kazumune Hashimoto,  
   **Test-Time Alignment of LLMs via Sampling-Based Optimal Control in pre-logit space**,  
   arXiv:2510.26219, 2025.  
