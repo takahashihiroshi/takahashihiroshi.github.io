@@ -84,10 +84,10 @@ description: Researcher at NTT
   **Relationship Between Nonsmoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
   IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3244172.  
   [[paper]](https://ieeexplore.ieee.org/document/10049380)
-1. **高橋大志**, 岩田具治, 山中友貴, 山田真徳, 八木哲志, 鹿島久嗣,  
-  **Student-t VAEによるロバスト確率密度推定**,  
-  人工知能学会論文誌, 2021, 36 巻, 3 号, p. A-KA4_1-9.  
-  [[paper]](https://www.jstage.jst.go.jp/article/tjsai/36/3/36_36-3_A-KA4/_article/-char/ja/)
+1. **Hiroshi Takahashi**, Tomoharu Iwata, Yuki Yamanaka, Masanori Yamada, Satoshi Yagi, Hisashi Kashima,  
+  **Student-t Variational Autoencoder for Robust Multivariate Density Estimation**,  
+  Transactions of the Japanese Society for Artificial Intelligence, 2021, 36(3), A-KA4_1–9. (in Japanese)  
+  [[paper]](https://www.jstage.jst.go.jp/article/tjsai/36/3/36_36-3_A-KA4/_article/-char/en)
 
 ## Thesis
 - **Hiroshi Takahashi**,  
